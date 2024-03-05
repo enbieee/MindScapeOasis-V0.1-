@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/my stuff/vr repo/vrmovement/MindScapeOasis-V0.1-/MindScapeOasis_V0_1/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/my stuff/vr repo/vrmovement/MindScapeOasis-V0.1-/MindScapeOasis_V0_1/Content/TestFile/Test1(05-03-2024)/Sequencer/TestLvlSequencer.uasset",
+				"C:/my stuff/vr repo/vrmovement/MindScapeOasis-V0.1-/MindScapeOasis_V0_1/Content/Main.umap",
+				"C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Experimental/PanoramicCapture/Content/Assets/BP_Capture.uasset"
+			]
+		}
+	]
+}
